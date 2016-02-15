@@ -62,6 +62,13 @@ body {
   text-size-adjust: 100%;
 }
 
+h1 {
+  font-size: 1.728em; /* 31.104px/18px */
+  line-height: 1.66666666667em; /*25.92px * 2 / 31.104px */
+  padding-top: .8333333333334em; /* 25.92px / 31.104px */
+  padding-bottom: 1.66666666667em; /*25.92px * 2 / 31.104px */
+}
+
 h2 {
   font-size: 1.728em; /* 31.104px/18px */
   line-height: 1.66666666667em; /*25.92px * 2 / 31.104px */
@@ -69,7 +76,17 @@ h2 {
   padding-bottom: 1.66666666667em; /*25.92px * 2 / 31.104px */
 }
 
+h3 {
+  font-size: 1.728em; /* 31.104px/18px */
+  line-height: 1.66666666667em; /*25.92px * 2 / 31.104px */
+  padding-top: .8333333333334em; /* 25.92px / 31.104px */
+  padding-bottom: 1.66666666667em; /*25.92px * 2 / 31.104px */
+}
 
-
-
+h4 {
+  font-size: 1.728em; /* 31.104px/18px */
+  line-height: 1.66666666667em; /*25.92px * 2 / 31.104px */
+  padding-top: .8333333333334em; /* 25.92px / 31.104px */
+  padding-bottom: 1.66666666667em; /*25.92px * 2 / 31.104px */
+}
 
