@@ -62,16 +62,6 @@ body {
   text-size-adjust: 100%;
 }
 
-p3 {
-  font-size: 1.125em; /* 18px/16px = 1.125 */
-  line-height: 1.440000000000000002em; /* 25.92px/18px */
-  padding-top: 1.440000000000000002em; /* 25.92px/18px */
-  padding-left: 1.200em;
-  padding-right: 0.600em;
-  padding-top: .8333333333334em; /* 25.92px / 31.104px */
-  text-size-adjust: 100%;
-}
-
 h1 {
   font-size: 1.728em; /* 31.104px/18px */
   line-height: 1.66666666667em; /*25.92px * 2 / 31.104px */
